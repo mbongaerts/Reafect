@@ -5,14 +5,14 @@ Reafect uses KEGG modules and pathways as basis, but reactions can manually be a
 
 # Content
 
-*Databases\*
+**Databases\\**
 * kegg_enzyme_with_gene_symbol.csv contains (KEGG) associations of enzymes with genes.
 * kegg_enzyme_with_reaction.csv contains (KEGG) associations of enzymes with reactions.
 * kegg_enzyme_with_name.csv contains (KEGG) EC enzyme numbers with enzyme names. 
 * Z_scores_IEM_patients_Bongaerts.csv: Z-score data of 72 IEM patient samples used in the publication.
 * Z_scores_IEM_patients_Miller.csv: Z-score data from Miller et al. (https://doi.org/10.1007/s10545-015-9843-7). Some adjustments were made to prepare the dataset for Reafect. 
 
-*Reafect\* 
+**Reafect\\**
 Contains all the code used to run Reafect.
 
 *Reafect_reproduce_results_publication.ipynb* reproduces IEM ranking results as presented in our publication
@@ -51,10 +51,11 @@ ReafectObj.determine_pathways_for_abc_params(a_params= [0.85], b_params = [0.35]
 ```
 In order to determine the deficient reaction scores for a sample, the input needs to have the following format (Pandas dataframe):
 
-| # network_ID  | # Z_score  |
+| network_ID   | Z_score  |
 |--------------|------------|
 | C00026       | 2.2        |
 | C00037       | -0.5       |
+| ..           | ..         |
 | RM_mn        | 1.25       |
 
 This dataframe can be passed to the *process_patient()* method.

@@ -17,11 +17,9 @@
 
 import os
 import sys
-import copy
 import time
 import pickle
 import itertools
-import random
 import numpy as np
 import pandas as pd
 import networkx as nx
