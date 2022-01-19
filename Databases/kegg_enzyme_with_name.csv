@@ -1,0 +1,1377 @@
+,enzyme,name_enzyme
+0,2.7.11.1,non-specific serine/threonine protein kinase
+1,2.7.11.24,mitogen-activated protein kinase
+2,2.7.12.2,mitogen-activated protein kinase kinase
+3,2.7.11.25,mitogen-activated protein kinase kinase kinase
+4,2.3.1.250,[Wnt protein] O-palmitoleoyl transferase
+5,2.3.2.23,E2 ubiquitin-conjugating enzyme
+6,7.2.2.10,P-type Ca2+ transporter
+7,2.7.11.13,protein kinase C
+8,2.4.1.41,polypeptide N-acetylgalactosaminyltransferase
+9,2.4.2.12,nicotinamide phosphoribosyltransferase
+10,3.1.3.16,protein-serine/threonine phosphatase
+11,3.1.3.48,protein-tyrosine-phosphatase
+12,2.7.10.1,receptor protein-tyrosine kinase
+13,5.3.1.6,ribose-5-phosphate isomerase
+14,2.7.7.6,DNA-directed RNA polymerase
+15,2.7.11.11,cAMP-dependent protein kinase
+16,2.8.1.7,cysteine desulfurase
+17,3.4.22.36,caspase-1
+18,3.4.22.55,caspase-2
+19,3.4.22.56,caspase-3
+20,3.4.22.57,caspase-4
+21,3.4.22.64,caspase-11
+22,3.4.22.58,caspase-5
+23,3.4.22.59,caspase-6
+24,3.4.22.60,caspase-7
+25,3.4.22.61,caspase-8
+26,3.4.22.62,caspase-9
+27,3.4.22.63,caspase-10
+28,2.3.2.27,RING-type E3 ubiquitin transferase
+29,2.7.1.68,1-phosphatidylinositol-4-phosphate 5-kinase
+30,2.3.2.26,HECT-type E3 ubiquitin transferase
+31,3.5.1.124,protein deglycase
+32,1.14.16.2,tyrosine 3-monooxygenase
+33,2.7.10.2,non-specific protein-tyrosine kinase
+34,6.2.1.45,E1 ubiquitin-activating enzyme
+35,3.4.21.53,endopeptidase La
+36,5.1.3.17,heparosan-N-sulfate-glucuronate 5-epimerase
+37,2.8.2.5,chondroitin 4-sulfotransferase
+38,2.8.2.17,chondroitin 6-sulfotransferase
+39,2.7.1.154,phosphatidylinositol-4-phosphate 3-kinase
+40,2.7.1.153,"phosphatidylinositol-4,5-bisphosphate 3-kinase"
+41,2.8.2.21,keratan sulfotransferase
+42,5.6.2.1,DNA topoisomerase
+43,2.7.1.67,1-phosphatidylinositol 4-kinase
+44,2.7.6.2,thiamine diphosphokinase
+45,1.5.1.2,pyrroline-5-carboxylate reductase
+46,2.1.1.314,diphthine methyl ester synthase
+47,2.6.1.2,alanine transaminase
+48,6.3.4.4,adenylosuccinate synthase
+49,3.6.4.12,DNA helicase
+50,2.3.2.13,protein-glutamine gamma-glutamyltransferase
+51,7.6.2.2,ABC-type xenobiotic transporter
+52,3.4.19.12,ubiquitinyl hydrolase 1
+53,3.1.26.4,ribonuclease H
+54,4.1.1.17,ornithine decarboxylase
+55,2.4.2.31,NAD+---protein-arginine ADP-ribosyltransferase
+56,3.4.21.105,rhomboid protease
+57,2.4.1.122,"N-acetylgalactosaminide beta-1,3-galactosyltransferase"
+58,3.4.22.68,Ulp1 peptidase
+59,1.8.3.2,thiol oxidase
+60,2.7.11.22,cyclin-dependent kinase
+61,2.7.11.12,cGMP-dependent protein kinase
+62,3.1.1.1,carboxylesterase
+63,3.1.1.84,cocaine esterase
+64,3.1.1.56,methylumbelliferyl-acetate deacetylase
+65,2.3.1.4,glucosamine-phosphate N-acetyltransferase
+66,3.4.21.5,thrombin
+67,3.4.21.68,t-plasminogen activator
+68,3.4.21.73,u-plasminogen activator
+69,5.6.1.6,channel-conductance-controlling ATPase
+70,3.6.1.13,ADP-ribose diphosphatase
+71,3.4.21.34,plasma kallikrein
+72,3.4.21.27,coagulation factor XIa
+73,3.4.21.22,coagulation factor IXa
+74,3.4.21.21,coagulation factor VIIa
+75,3.4.21.6,coagulation factor Xa
+76,3.2.1.21,beta-glucosidase
+77,3.4.21.69,protein C (activated)
+78,3.4.21.41,complement subcomponent C_overbar_1r_
+79,3.4.21.7,plasmin
+80,3.4.17.20,carboxypeptidase U
+81,3.4.21.42,complement subcomponent C_overbar_1s_
+82,3.4.21.43,classical-complement-pathway C3/C5 convertase
+83,3.4.21.47,alternative-complement-pathway C3/C5 convertase
+84,3.4.21.46,complement factor D
+85,3.4.21.45,complement factor I
+86,6.2.1.7,cholate---CoA ligase
+87,2.3.1.21,carnitine O-palmitoyltransferase
+88,7.2.1.3,ascorbate ferrireductase (transmembrane)
+89,4.4.1.20,leukotriene-C4 synthase
+90,2.5.1.60,protein geranylgeranyltransferase type II
+91,3.1.3.67,"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase"
+92,3.1.1.29,aminoacyl-tRNA hydrolase
+93,3.1.3.11,fructose-bisphosphatase
+94,1.3.1.70,Delta14-sterol reductase
+95,1.1.1.271,GDP-L-fucose synthase
+96,2.7.1.48,uridine kinase
+97,2.3.1.26,sterol O-acyltransferase
+98,2.3.1.42,glycerone-phosphate O-acyltransferase
+99,3.2.1.35,hyaluronoglucosaminidase
+100,2.7.7.15,choline-phosphate cytidylyltransferase
+101,1.5.1.34,"6,7-dihydropteridine reductase"
+102,1.11.1.6,catalase
+103,2.4.1.17,glucuronosyltransferase
+104,2.4.99.6,"N-acetyllactosaminide alpha-2,3-sialyltransferase"
+105,3.2.1.24,alpha-mannosidase
+106,2.8.2.23,[heparan sulfate]-glucosamine 3-sulfotransferase 1
+107,2.8.2.29,[heparan sulfate]-glucosamine 3-sulfotransferase 2
+108,3.1.3.75,phosphoethanolamine/phosphocholine phosphatase
+109,3.1.1.5,lysophospholipase
+110,2.8.2.30,[heparan sulfate]-glucosamine 3-sulfotransferase 3
+111,2.5.1.61,hydroxymethylbilane synthase
+112,2.4.1.206,"lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"
+113,1.14.14.154,sterol 14alpha-demethylase
+114,1.14.15.36,sterol 14alpha-demethylase (ferredoxin)
+115,2.7.1.52,fucokinase
+116,2.1.1.348,mRNA m6A methyltransferase
+117,7.6.2.1,P-type phospholipid transporter
+118,3.4.11.18,methionyl aminopeptidase
+119,6.2.1.3,long-chain-fatty-acid---CoA ligase
+120,3.3.1.1,adenosylhomocysteinase
+121,2.4.1.221,peptide-O-fucosyltransferase
+122,1.4.1.3,glutamate dehydrogenase [NAD(P)+]
+123,2.3.1.15,glycerol-3-phosphate 1-O-acyltransferase
+124,2.4.1.222,O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
+125,3.6.4.6,vesicle-fusing ATPase
+126,3.1.3.36,phosphoinositide 5-phosphatase
+127,3.4.23.1,pepsin A
+128,2.7.2.3,phosphoglycerate kinase
+129,2.5.1.39,4-hydroxybenzoate polyprenyltransferase
+130,1.14.99.60,3-demethoxyubiquinol 3-hydroxylase
+131,1.5.3.13,N1-acetylpolyamine oxidase
+132,4.2.1.18,methylglutaconyl-CoA hydratase
+133,1.3.3.3,coproporphyrinogen oxidase
+134,3.4.23.45,memapsin 1
+135,3.4.17.22,metallocarboxypeptidase D
+136,3.1.3.62,multiple inositol-polyphosphate phosphatase
+137,3.1.3.80,"2,3-bisphosphoglycerate 3-phosphatase"
+138,3.6.1.52,diphosphoinositol-polyphosphate diphosphatase
+139,3.6.1.22,NAD+ diphosphatase
+140,3.6.1.45,UDP-sugar diphosphatase
+141,1.2.1.12,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+142,1.21.99.3,thyroxine 5-deiodinase
+143,2.1.1.137,arsenite methyltransferase
+144,6.2.1.1,acetate---CoA ligase
+145,2.7.1.147,ADP-specific glucokinase
+146,2.3.1.137,carnitine O-octanoyltransferase
+147,3.1.2.1,acetyl-CoA hydrolase
+148,4.2.1.1,carbonic anhydrase
+149,1.2.4.1,pyruvate dehydrogenase (acetyl-transferring)
+150,3.5.1.25,N-acetylglucosamine-6-phosphate deacetylase
+151,3.4.14.5,dipeptidyl-peptidase IV
+152,2.7.11.23,[RNA-polymerase]-subunit kinase
+153,2.1.1.354,[histone H3]-lysine4 N-trimethyltransferase
+154,1.21.99.4,thyroxine 5'-deiodinase
+155,7.1.1.2,NADH:ubiquinone reductase (H+-translocating)
+156,1.6.99.3,NADH dehydrogenase
+157,3.4.21.104,mannan-binding lectin-associated serine protease-2
+158,2.4.2.1,purine-nucleoside phosphorylase
+159,2.4.1.142,chitobiosyldiphosphodolichol beta-mannosyltransferase
+160,2.4.1.132,"GDP-Man:Man1GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase"
+161,2.4.1.257,"GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase"
+162,2.4.1.258,"dolichyl-P-Man:Man5GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase"
+163,2.4.1.260,"dolichyl-P-Man:Man7GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase"
+164,2.4.1.267,"dolichyl-P-Glc:Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase"
+165,2.4.1.265,"dolichyl-P-Glc:Glc1Man9GlcNAc2-PP-dolichol alpha-1,3-glucosyltransferase"
+166,2.4.1.256,"dolichyl-P-Glc:Glc2Man9GlcNAc2-PP-dolichol alpha-1,2-glucosyltransferase"
+167,4.1.2.13,fructose-bisphosphate aldolase
+168,2.3.3.10,hydroxymethylglutaryl-CoA synthase
+169,2.4.1.198,phosphatidylinositol N-acetylglucosaminyltransferase
+170,1.16.1.8,[methionine synthase] reductase
+171,3.6.5.5,dynamin GTPase
+172,2.4.1.79,globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase
+173,1.3.5.1,succinate dehydrogenase
+174,7.1.1.8,quinol---cytochrome-c reductase
+175,2.7.7.7,DNA-directed DNA polymerase
+176,3.5.4.4,adenosine deaminase
+177,2.3.1.199,very-long-chain 3-oxoacyl-CoA synthase
+178,3.4.17.1,carboxypeptidase A
+179,3.4.18.1,cathepsin X
+180,2.8.3.5,3-oxoacid CoA-transferase
+181,3.4.21.39,chymase
+182,3.4.21.109,matriptase
+183,6.3.2.25,tubulin---tyrosine ligase
+184,5.3.3.5,cholestenol Delta-isomerase
+185,4.6.1.16,tRNA-intron lyase
+186,2.3.1.48,histone acetyltransferase
+187,4.2.99.18,DNA-(apurinic or apyrimidinic site) lyase
+188,2.7.12.1,dual-specificity kinase
+189,2.7.11.17,Ca2+/calmodulin-dependent protein kinase
+190,3.4.24.84,Ste24 endopeptidase
+191,2.4.1.141,N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase
+192,3.4.21.112,site-1 protease
+193,2.7.4.3,adenylate kinase
+194,5.6.1.1,microtubule-severing ATPase
+195,1.1.1.27,L-lactate dehydrogenase
+196,3.1.3.5,5'-nucleotidase
+197,1.14.19.17,sphingolipid 4-desaturase
+198,1.14.18.5,sphingolipid C4-monooxygenase
+199,2.7.1.138,ceramide kinase
+200,2.7.1.91,sphingosine kinase
+201,2.7.8.27,sphingomyelin synthase
+202,3.4.21.59,tryptase
+203,6.4.1.4,methylcrotonoyl-CoA carboxylase
+204,6.2.1.4,succinate---CoA ligase (GDP-forming)
+205,6.2.1.5,succinate---CoA ligase (ADP-forming)
+206,5.1.99.1,methylmalonyl-CoA epimerase
+207,3.4.24.79,pappalysin-1
+208,3.4.24.85,S2P endopeptidase
+209,1.3.3.4,protoporphyrinogen oxidase
+210,1.3.3.15,coproporphyrinogen III oxidase (coproporphyrin-forming)
+211,2.5.1.46,deoxyhypusine synthase
+212,3.1.3.86,"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase"
+213,2.1.1.215,tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase
+214,2.1.1.216,tRNA (guanine26-N2)-dimethyltransferase
+215,1.3.3.6,acyl-CoA oxidase
+216,2.7.4.6,nucleoside-diphosphate kinase
+217,7.1.2.2,H+-transporting two-sector ATPase
+218,2.7.11.26,tau-protein kinase
+219,2.7.1.33,pantothenate kinase
+220,1.11.1.15,peroxiredoxin
+221,3.1.2.2,palmitoyl-CoA hydrolase
+222,1.2.1.36,retinal dehydrogenase
+223,5.4.99.45,tRNA pseudouridine38/39 synthase
+224,1.11.1.9,glutathione peroxidase
+225,3.1.26.11,tRNase Z
+226,1.14.16.4,tryptophan 5-monooxygenase
+227,1.14.15.18,calcidiol 1-monooxygenase
+228,3.6.1.43,dolichyldiphosphatase
+229,2.4.1.226,N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase
+230,2.5.1.18,glutathione transferase
+231,4.2.1.49,urocanate hydratase
+232,2.1.1.33,tRNA (guanine46-N7)-methyltransferase
+233,5.3.2.1,phenylpyruvate tautomerase
+234,3.4.24.81,ADAM10 endopeptidase
+235,2.4.1.313,"protein O-mannose beta-1,3-N-acetylgalactosaminyltransferase"
+236,2.4.1.244,N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase
+237,2.4.1.255,protein O-GlcNAc transferase
+238,3.4.25.1,proteasome endopeptidase complex
+239,4.2.1.134,very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+240,2.7.4.24,diphosphoinositol-pentakisphosphate kinase
+241,6.1.1.21,histidine---tRNA ligase
+242,1.1.5.3,glycerol-3-phosphate dehydrogenase
+243,6.1.1.14,glycine---tRNA ligase
+244,4.2.1.2,fumarate hydratase
+245,3.4.13.19,membrane dipeptidase
+246,6.1.1.16,cysteine---tRNA ligase
+247,2.4.1.212,hyaluronan synthase
+248,1.8.1.7,glutathione-disulfide reductase
+249,1.7.1.7,GMP reductase
+250,4.2.3.12,6-pyruvoyltetrahydropterin synthase
+251,4.1.2.50,6-carboxytetrahydropterin synthase
+252,3.5.99.6,glucosamine-6-phosphate deaminase
+253,3.1.1.77,acyloxyacyl hydrolase
+254,3.4.22.40,bleomycin hydrolase
+255,3.4.22.42,cathepsin O
+256,3.4.21.119,kallikrein 13
+257,2.5.1.1,dimethylallyltranstransferase
+258,2.5.1.10,"(2E,6E)-farnesyl diphosphate synthase"
+259,2.5.1.29,geranylgeranyl diphosphate synthase
+260,2.3.2.25,N-terminal E2 ubiquitin-conjugating enzyme
+261,1.1.1.30,3-hydroxybutyrate dehydrogenase
+262,2.1.1.5,betaine---homocysteine S-methyltransferase
+263,2.7.1.15,ribokinase
+264,2.1.2.1,glycine hydroxymethyltransferase
+265,2.7.1.23,NAD+ kinase
+266,2.5.1.22,spermine synthase
+267,2.7.7.23,UDP-N-acetylglucosamine diphosphorylase
+268,2.7.7.83,UDP-N-acetylgalactosamine diphosphorylase
+269,3.6.5.4,signal-recognition-particle GTPase
+270,3.5.1.12,biotinidase
+271,5.3.99.5,thromboxane-A synthase
+272,2.2.1.1,transketolase
+273,2.4.2.29,tRNA-guanosine34 transglycosylase
+274,3.1.1.4,phospholipase A2
+275,2.8.2.20,protein-tyrosine sulfotransferase
+276,2.7.1.107,diacylglycerol kinase (ATP)
+277,1.14.13.9,kynurenine 3-monooxygenase
+278,6.1.1.1,tyrosine---tRNA ligase
+279,2.4.1.83,dolichyl-phosphate beta-D-mannosyltransferase
+280,2.3.1.97,glycylpeptide N-tetradecanoyltransferase
+281,2.8.2.11,galactosylceramide sulfotransferase
+282,3.2.2.6,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase
+283,2.4.99.20,2'-phospho-ADP-ribosyl cyclase/2'-phospho-cyclic-ADP-ribose transferase
+284,6.1.1.20,phenylalanine---tRNA ligase
+285,5.6.2.2,DNA topoisomerase (ATP-hydrolysing)
+286,1.2.4.4,3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+287,2.7.7.102,DNA primase AEP
+288,3.1.2.22,palmitoyl[protein] hydrolase
+289,3.4.21.93,proprotein convertase 1
+290,6.4.1.3,propionyl-CoA carboxylase
+291,1.1.1.37,malate dehydrogenase
+292,2.3.1.176,propanoyl-CoA C-acyltransferase
+293,2.7.11.8,Fas-activated serine/threonine kinase
+294,2.7.11.16,G-protein-coupled receptor kinase
+295,2.7.11.20,elongation factor 2 kinase
+296,2.7.1.82,ethanolamine kinase
+297,1.14.99.1,prostaglandin-endoperoxide synthase
+298,3.4.24.16,neurolysin
+299,1.1.1.315,11-cis-retinol dehydrogenase
+300,3.1.1.79,hormone-sensitive lipase
+301,3.1.3.56,inositol-polyphosphate 5-phosphatase
+302,2.1.2.9,methionyl-tRNA formyltransferase
+303,1.16.3.2,bacterial non-heme ferritin
+304,3.2.1.143,poly(ADP-ribose) glycohydrolase
+305,3.1.13.4,poly(A)-specific ribonuclease
+306,5.1.3.3,aldose 1-epimerase
+307,1.3.1.38,trans-2-enoyl-CoA reductase (NADPH)
+308,3.9.1.3,phosphohistidine phosphatase
+309,2.3.2.2,gamma-glutamyltransferase
+310,3.4.19.13,glutathione gamma-glutamate hydrolase
+311,6.1.1.11,serine---tRNA ligase
+312,3.1.3.74,pyridoxal phosphatase
+313,2.7.7.8,polyribonucleotide nucleotidyltransferase
+314,2.4.1.109,dolichyl-phosphate-mannose---protein mannosyltransferase
+315,2.3.1.6,choline O-acetyltransferase
+316,3.5.3.15,protein-arginine deiminase
+317,2.7.3.2,creatine kinase
+318,2.1.1.6,catechol O-methyltransferase
+319,2.7.1.20,adenosine kinase
+320,2.5.1.141,heme o synthase
+321,3.4.17.12,carboxypeptidase M
+322,1.13.11.63,"beta-carotene 15,15'-dioxygenase"
+323,2.3.1.7,carnitine O-acetyltransferase
+324,2.7.1.113,deoxyguanosine kinase
+325,1.3.1.21,7-dehydrocholesterol reductase
+326,3.6.1.23,dUTP diphosphatase
+327,2.4.1.224,glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase
+328,2.4.1.225,N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase
+329,2.4.1.223,glucuronosyl-galactosyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase
+330,1.2.1.3,aldehyde dehydrogenase (NAD+)
+331,2.7.9.3,"selenide, water dikinase"
+332,1.14.13.8,flavin-containing monooxygenase
+333,2.4.2.19,nicotinate-nucleotide diphosphorylase (carboxylating)
+334,4.2.1.46,"dTDP-glucose 4,6-dehydratase"
+335,6.3.2.17,tetrahydrofolate synthase
+336,2.4.1.68,glycoprotein 6-alpha-L-fucosyltransferase
+337,2.1.1.2,guanidinoacetate N-methyltransferase
+338,3.5.4.6,AMP deaminase
+339,3.5.1.2,glutaminase
+340,2.1.1.20,glycine N-methyltransferase
+341,2.4.1.117,dolichyl-phosphate beta-glucosyltransferase
+342,2.4.1.186,glycogenin glucosyltransferase
+343,3.4.19.6,pyroglutamyl-peptidase II
+344,2.6.1.52,phosphoserine transaminase
+345,2.4.1.11,glycogen(starch) synthase
+346,6.1.1.5,isoleucine---tRNA ligase
+347,1.1.1.42,isocitrate dehydrogenase (NADP+)
+348,5.3.3.2,isopentenyl-diphosphate Delta-isomerase
+349,3.1.6.13,iduronate-2-sulfatase
+350,3.1.3.25,inositol-phosphate phosphatase
+351,2.7.1.127,inositol-trisphosphate 3-kinase
+352,2.7.1.3,ketohexokinase
+353,3.5.3.1,arginase
+354,2.4.1.22,lactose synthase
+355,3.4.11.3,cystinyl aminopeptidase
+356,1.4.3.13,protein-lysine 6-oxidase
+357,3.1.1.7,acetylcholinesterase
+358,3.2.1.18,exo-alpha-sialidase
+359,3.4.24.61,nardilysin
+360,3.4.21.10,acrosin
+361,2.1.3.3,ornithine carbamoyltransferase
+362,2.7.4.10,nucleoside-triphosphate---adenylate kinase
+363,2.1.1.77,protein-L-isoaspartate(D-aspartate) O-methyltransferase
+364,3.4.14.4,dipeptidyl-peptidase III
+365,6.1.1.2,tryptophan---tRNA ligase
+366,1.13.11.20,cysteine dioxygenase
+367,2.7.7.41,phosphatidate cytidylyltransferase
+368,6.3.3.2,5-formyltetrahydrofolate cyclo-ligase
+369,1.5.1.6,formyltetrahydrofolate dehydrogenase
+370,5.5.1.4,inositol-3-phosphate synthase
+371,3.5.1.6,beta-ureidopropionase
+372,1.1.1.44,"phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)"
+373,1.1.1.343,"phosphogluconate dehydrogenase (NAD+-dependent, decarboxylating)"
+374,3.1.4.4,phospholipase D
+375,3.1.3.43,[pyruvate dehydrogenase (acetyl-transferring)]-phosphatase
+376,3.4.19.3,pyroglutamyl-peptidase I
+377,1.5.5.2,proline dehydrogenase
+378,2.7.8.29,L-serine-phosphatidylethanolamine phosphatidyltransferase
+379,2.4.2.9,uracil phosphoribosyltransferase
+380,1.3.8.8,long-chain acyl-CoA dehydrogenase
+381,2.7.11.10,IkappaB kinase
+382,2.7.11.21,polo kinase
+383,4.1.1.19,arginine decarboxylase
+384,4.3.2.7,glutathione-specific gamma-glutamylcyclotransferase
+385,2.7.11.2,[pyruvate dehydrogenase (acetyl-transferring)] kinase
+386,3.2.2.21,DNA-3-methyladenine glycosylase II
+387,4.1.1.36,phosphopantothenoylcysteine decarboxylase
+388,2.4.1.174,glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase
+389,2.4.1.175,glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase
+390,1.1.99.1,choline dehydrogenase
+391,3.2.1.14,chitinase
+392,1.14.18.9,4alpha-methylsterol monooxygenase
+393,1.1.1.170,3beta-hydroxysteroid-4alpha-carboxylate 3-dehydrogenase (decarboxylating)
+394,2.5.1.16,spermidine synthase
+395,1.1.1.10,L-xylulose reductase
+396,4.1.2.4,deoxyribose-phosphate aldolase
+397,2.5.1.58,protein farnesyltransferase
+398,2.3.1.75,long-chain-alcohol O-fatty-acyltransferase
+399,1.3.1.91,tRNA-dihydrouridine20 synthase [NAD(P)+]
+400,2.4.1.147,"acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase"
+401,1.3.1.89,tRNA-dihydrouridine47 synthase [NAD(P)+]
+402,1.3.1.90,tRNA-dihydrouridine20a/20b synthase [NAD(P)+]
+403,3.2.1.207,"mannosyl-oligosaccharide alpha-1,3-glucosidase"
+404,2.7.1.137,phosphatidylinositol 3-kinase
+405,2.4.1.134,galactosylxylosylprotein 3-beta-galactosyltransferase
+406,5.2.1.8,peptidylprolyl isomerase
+407,2.3.1.179,beta-ketoacyl-[acyl-carrier-protein] synthase II
+408,2.7.11.14,rhodopsin kinase
+409,1.3.99.12,2-methylacyl-CoA dehydrogenase
+410,1.3.8.9,very-long-chain acyl-CoA dehydrogenase
+411,2.4.1.259,"dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase"
+412,2.4.1.261,"dolichyl-P-Man:Man8GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase"
+413,1.5.8.3,sarcosine dehydrogenase
+414,2.3.1.57,diamine N-acetyltransferase
+415,3.1.1.23,acylglycerol lipase
+416,2.5.1.17,corrinoid adenosyltransferase
+417,3.4.17.23,angiotensin-converting enzyme 2
+418,3.3.2.9,microsomal epoxide hydrolase
+419,3.3.2.10,soluble epoxide hydrolase
+420,3.1.3.76,lipid-phosphate phosphatase
+421,1.13.11.52,"indoleamine 2,3-dioxygenase"
+422,2.4.1.131,"GDP-Man:Man3GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase"
+423,1.3.1.72,Delta24-sterol reductase
+424,1.15.1.1,superoxide dismutase
+425,6.1.1.6,lysine---tRNA ligase
+426,2.3.2.31,RBR-type E3 ubiquitin transferase
+427,2.7.11.30,receptor protein serine/threonine kinase
+428,3.4.21.38,coagulation factor XIIa
+429,6.1.1.4,leucine---tRNA ligase
+430,2.7.1.28,triokinase
+431,2.7.1.29,glycerone kinase
+432,4.6.1.15,FAD-AMP lyase (cyclizing)
+433,2.8.1.8,lipoyl synthase
+434,3.4.21.106,hepsin
+435,3.4.21.108,HtrA2 peptidase
+436,3.4.21.117,stratum corneum chymotryptic enzyme
+437,3.4.21.118,kallikrein 8
+438,3.4.24.11,neprilysin
+439,2.7.8.41,cardiolipin synthase (CMP-forming)
+440,3.1.4.35,"3',5'-cyclic-GMP phosphodiesterase"
+441,1.14.11.66,[histone H3]-trimethyl-L-lysine9 demethylase
+442,1.14.11.69,[histone H3]-trimethyl-L-lysine36 demethylase
+443,3.4.24.87,ADAMTS13 endopeptidase
+444,2.4.1.135,galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+445,5.3.4.1,protein disulfide-isomerase
+446,3.4.24.14,procollagen N-endopeptidase
+447,3.4.24.82,ADAMTS-4 endopeptidase
+448,1.8.4.2,protein-disulfide reductase (glutathione)
+449,3.4.24.63,meprin B
+450,3.4.24.18,meprin A
+451,4.1.1.29,sulfinoalanine decarboxylase
+452,3.5.1.88,peptide deformylase
+453,2.1.1.49,amine N-methyltransferase
+454,2.1.1.96,thioether S-methyltransferase
+455,3.5.3.11,agmatinase
+456,3.4.11.21,aspartyl aminopeptidase
+457,3.4.21.36,pancreatic elastase
+458,3.4.21.71,pancreatic elastase II
+459,3.6.1.3,adenosinetriphosphatase
+460,3.6.1.5,apyrase
+461,3.6.1.6,nucleoside diphosphate phosphatase
+462,2.7.1.30,glycerol kinase
+463,1.14.11.8,trimethyllysine dioxygenase
+464,2.7.1.21,thymidine kinase
+465,3.2.1.113,"mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+466,3.4.17.21,glutamate carboxypeptidase II
+467,1.14.11.2,procollagen-proline 4-dioxygenase
+468,1.14.19.1,stearoyl-CoA 9-desaturase
+469,7.2.2.13,Na+/K+-exchanging ATPase
+470,2.4.1.149,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase"
+471,1.14.15.15,cholestanetriol 26-monooxygenase
+472,3.1.26.5,ribonuclease P
+473,2.4.99.7,"alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3-N-acetylgalactosaminide 6-alpha-sialyltransferase"
+474,2.4.99.9,"lactosylceramide alpha-2,3-sialyltransferase"
+475,2.1.1.114,polyprenyldihydroxybenzoate methyltransferase
+476,2.1.1.64,3-demethylubiquinol 3-O-methyltransferase
+477,5.4.99.12,tRNA pseudouridine38-40 synthase
+478,2.3.3.1,citrate (Si)-synthase
+479,2.4.1.228,lactosylceramide 4-alpha-galactosyltransferase
+480,1.14.14.1,unspecific monooxygenase
+481,1.14.14.24,vitamin D 25-hydroxylase
+482,1.14.14.29,25/26-hydroxycholesterol 7alpha-hydroxylase
+483,1.14.18.8,7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase
+484,1.14.14.139,"5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase"
+485,1.14.14.14,aromatase
+486,1.14.15.16,vitamin D3 24-hydroxylase
+487,1.14.14.26,24-hydroxycholesterol 7alpha-hydroxylase
+488,1.14.14.25,cholesterol 24-hydroxylase
+489,4.2.1.17,enoyl-CoA hydratase
+490,1.14.14.79,docosahexaenoic acid omega-hydroxylase
+491,2.3.1.16,acetyl-CoA C-acyltransferase
+492,2.4.1.47,N-acylsphingosine galactosyltransferase
+493,3.4.24.19,procollagen C-endopeptidase
+494,1.14.11.29,hypoxia-inducible factor-proline dioxygenase
+495,1.1.1.34,hydroxymethylglutaryl-CoA reductase (NADPH)
+496,1.2.4.2,oxoglutarate dehydrogenase (succinyl-transferring)
+497,3.5.1.92,pantetheine hydrolase
+498,1.6.5.2,NAD(P)H dehydrogenase (quinone)
+499,1.10.5.1,ribosyldihydronicotinamide dehydrogenase (quinone)
+500,2.6.1.42,branched-chain-amino-acid transaminase
+501,3.1.3.57,"inositol-1,4-bisphosphate 1-phosphatase"
+502,2.8.2.35,dermatan 4-sulfotransferase
+503,2.8.2.33,N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
+504,1.14.11.7,procollagen-proline 3-dioxygenase
+505,2.7.11.4,[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] kinase
+506,2.7.11.15,beta-adrenergic-receptor kinase
+507,6.1.1.17,glutamate---tRNA ligase
+508,1.13.11.33,arachidonate 15-lipoxygenase
+509,1.6.2.2,cytochrome-b5 reductase
+510,3.1.6.12,N-acetylgalactosamine-4-sulfatase
+511,6.1.1.15,proline---tRNA ligase
+512,3.5.1.52,peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+513,4.6.1.1,adenylate cyclase
+514,2.7.11.19,phosphorylase kinase
+515,3.4.23.46,memapsin 2
+516,2.4.1.65,3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase
+517,2.4.1.274,"glucosylceramide beta-1,4-galactosyltransferase"
+518,2.7.7.72,CCA tRNA nucleotidyltransferase
+519,6.1.1.12,aspartate---tRNA ligase
+520,2.4.99.1,"beta-galactoside alpha-(2,6)-sialyltransferase"
+521,2.7.11.18,myosin-light-chain kinase
+522,2.3.2.8,arginyltransferase
+523,1.1.1.31,3-hydroxyisobutyrate dehydrogenase
+524,1.14.14.23,cholesterol 7alpha-monooxygenase
+525,1.14.14.19,steroid 17alpha-monooxygenase
+526,1.14.14.32,17alpha-hydroxyprogesterone deacetylase
+527,1.14.14.16,steroid 21-monooxygenase
+528,5.3.99.4,prostaglandin-I synthase
+529,3.4.21.1,chymotrypsin
+530,1.8.4.11,peptide-methionine (S)-S-oxide reductase
+531,1.14.15.6,cholesterol monooxygenase (side-chain-cleaving)
+532,3.4.17.15,carboxypeptidase A2
+533,2.8.2.2,alcohol sulfotransferase
+534,1.1.1.102,3-dehydrosphinganine reductase
+535,2.4.1.86,"N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase"
+536,2.4.1.146,"beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase"
+537,3.2.1.166,heparanase
+538,2.1.1.166,23S rRNA (uridine2552-2'-O)-methyltransferase
+539,3.4.24.7,interstitial collagenase
+540,3.4.24.24,gelatinase A
+541,1.14.19.20,Delta7-sterol 5(6)-desaturase
+542,3.4.24.17,stromelysin 1
+543,3.4.24.23,matrilysin
+544,3.4.24.34,neutrophil collagenase
+545,3.4.24.35,gelatinase B
+546,3.4.24.22,stromelysin 2
+547,3.4.24.65,macrophage elastase
+548,3.4.24.80,membrane-type matrix metalloproteinase-1
+549,2.1.1.201,"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase"
+550,3.1.2.21,dodecanoyl-[acyl-carrier-protein] hydrolase
+551,3.4.23.34,cathepsin E
+552,3.4.22.52,calpain-1
+553,3.4.22.53,calpain-2
+554,3.4.22.54,calpain-3
+555,1.14.11.51,DNA N6-methyladenine demethylase
+556,1.14.11.53,mRNA N6-methyladenine demethylase
+557,2.1.1.229,tRNA (carboxymethyluridine34-5-O)-methyltransferase
+558,2.3.2.32,cullin-RING-type E3 NEDD8 transferase
+559,2.3.3.8,ATP citrate synthase
+560,3.5.1.89,N-acetylglucosaminylphosphatidylinositol deacetylase
+561,1.8.3.5,prenylcysteine oxidase
+562,1.8.3.6,farnesylcysteine lyase
+563,2.4.2.3,uridine phosphorylase
+564,2.4.99.3,"alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase"
+565,2.4.99.4,"beta-galactoside alpha-2,3-sialyltransferase"
+566,2.4.99.8,"alpha-N-acetylneuraminate alpha-2,8-sialyltransferase"
+567,2.7.7.19,polynucleotide adenylyltransferase
+568,1.9.3.1,cytochrome-c oxidase
+569,3.2.2.31,adenine glycosylase
+570,3.2.2.27,uracil-DNA glycosylase
+571,3.1.26.3,ribonuclease III
+572,3.4.24.86,ADAM 17 endopeptidase
+573,3.5.1.98,histone deacetylase
+574,3.1.4.11,phosphoinositide phospholipase C
+575,2.7.1.160,2'-phosphotransferase
+576,3.2.1.31,beta-glucuronidase
+577,3.5.3.4,allantoicase
+578,3.2.1.1,alpha-amylase
+579,2.3.1.50,serine C-palmitoyltransferase
+580,3.1.3.4,phosphatidate phosphatase
+581,1.1.1.35,3-hydroxyacyl-CoA dehydrogenase
+582,2.7.1.11,6-phosphofructokinase
+583,2.7.1.36,mevalonate kinase
+584,1.1.1.205,IMP dehydrogenase
+585,4.2.1.11,phosphopyruvate hydratase
+586,2.7.1.74,deoxycytidine kinase
+587,3.4.17.3,lysine carboxypeptidase
+588,2.7.1.6,galactokinase
+589,3.4.22.27,cathepsin S
+590,3.4.21.4,trypsin
+591,2.7.1.40,pyruvate kinase
+592,1.3.99.23,"all-trans-retinol 13,14-reductase"
+593,3.7.1.2,fumarylacetoacetase
+594,2.7.7.12,UDP-glucose---hexose-1-phosphate uridylyltransferase
+595,1.13.11.27,4-hydroxyphenylpyruvate dioxygenase
+596,1.14.14.18,heme oxygenase (biliverdin-producing)
+597,3.4.17.2,carboxypeptidase B
+598,2.5.1.21,squalene synthase
+599,4.1.1.22,histidine decarboxylase
+600,3.1.3.1,alkaline phosphatase
+601,3.6.1.7,acylphosphatase
+602,2.7.7.31,DNA nucleotidylexotransferase
+603,4.1.1.50,adenosylmethionine decarboxylase
+604,1.3.8.1,short-chain acyl-CoA dehydrogenase
+605,2.1.1.56,mRNA (guanine-N7)-methyltransferase
+606,3.6.1.1,inorganic diphosphatase
+607,1.3.1.2,dihydropyrimidine dehydrogenase (NADP+)
+608,3.4.23.5,cathepsin D
+609,2.4.1.133,xylosylprotein 4-beta-galactosyltransferase
+610,5.3.1.22,hydroxypyruvate isomerase
+611,2.4.2.7,adenine phosphoribosyltransferase
+612,2.8.2.1,aryl sulfotransferase
+613,3.4.22.15,cathepsin L
+614,2.1.1.13,methionine synthase
+615,5.1.3.8,N-acylglucosamine 2-epimerase
+616,2.3.1.135,phosphatidylcholine---retinol O-acyltransferase
+617,3.4.14.2,dipeptidyl-peptidase II
+618,1.14.16.1,phenylalanine 4-monooxygenase
+619,1.4.3.3,D-amino-acid oxidase
+620,4.1.1.32,phosphoenolpyruvate carboxykinase (GTP)
+621,2.3.1.9,acetyl-CoA C-acetyltransferase
+622,4.1.1.28,aromatic-L-amino-acid decarboxylase
+623,4.1.1.105,L-tryptophan decarboxylase
+624,3.5.4.16,GTP cyclohydrolase I
+625,1.14.18.1,tyrosinase
+626,2.7.8.11,CDP-diacylglycerol---inositol 3-phosphatidyltransferase
+627,3.1.22.1,deoxyribonuclease II
+628,2.7.1.1,hexokinase
+629,3.5.1.9,arylformamidase
+630,3.1.1.45,carboxymethylenebutenolidase
+631,3.2.2.19,[protein ADP-ribosylarginine] hydrolase
+632,3.1.6.8,cerebroside-sulfatase
+633,4.1.1.15,glutamate decarboxylase
+634,5.3.1.9,glucose-6-phosphate isomerase
+635,2.1.1.45,thymidylate synthase
+636,2.5.1.6,methionine adenosyltransferase
+637,2.4.2.26,protein xylosyltransferase
+638,2.4.1.69,"type 1 galactoside alpha-(1,2)-fucosyltransferase"
+639,3.4.19.9,folate gamma-glutamyl hydrolase
+640,3.1.3.66,"phosphatidylinositol-3,4-bisphosphate 4-phosphatase"
+641,1.6.2.4,NADPH---hemoprotein reductase
+642,1.13.11.34,arachidonate 5-lipoxygenase
+643,1.14.11.4,procollagen-lysine 5-dioxygenase
+644,1.3.8.7,medium-chain acyl-CoA dehydrogenase
+645,2.4.1.1,glycogen phosphorylase
+646,1.4.3.1,D-aspartate oxidase
+647,2.1.1.1,nicotinamide N-methyltransferase
+648,5.1.3.1,ribulose-phosphate 3-epimerase
+649,1.2.1.18,malonate-semialdehyde dehydrogenase (acetylating)
+650,1.2.1.27,methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
+651,1.4.3.21,primary-amine oxidase
+652,2.7.8.2,diacylglycerol cholinephosphotransferase
+653,4.3.2.1,argininosuccinate lyase
+654,2.1.1.67,thiopurine S-methyltransferase
+655,5.3.99.3,prostaglandin-E synthase
+656,3.1.3.77,acireductone synthase
+657,1.3.1.24,biliverdin reductase
+658,3.4.11.9,Xaa-Pro aminopeptidase
+659,3.4.14.9,tripeptidyl-peptidase I
+660,1.1.1.21,aldehyde reductase
+661,2.1.1.100,protein-S-isoprenylcysteine O-methyltransferase
+662,2.4.1.145,"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase"
+663,3.1.4.37,"2',3'-cyclic-nucleotide 3'-phosphodiesterase"
+664,3.5.4.5,cytidine deaminase
+665,2.4.2.14,amidophosphoribosyltransferase
+666,2.4.1.18,"1,4-alpha-glucan branching enzyme"
+667,2.7.8.17,UDP-N-acetylglucosamine---lysosomal-enzyme N-acetylglucosaminephosphotransferase
+668,3.1.4.45,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+669,3.4.21.20,cathepsin G
+670,2.4.1.102,"beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase"
+671,1.8.1.4,dihydrolipoyl dehydrogenase
+672,6.3.4.2,CTP synthase (glutamine hydrolysing)
+673,2.7.1.26,riboflavin kinase
+674,1.1.1.22,UDP-glucose 6-dehydrogenase
+675,6.3.1.2,glutamine synthetase
+676,1.1.1.64,testosterone 17beta-dehydrogenase (NADP+)
+677,1.13.11.31,arachidonate 12-lipoxygenase
+678,3.5.2.9,5-oxoprolinase (ATP-hydrolysing)
+679,6.3.5.1,NAD+ synthase (glutamine-hydrolysing)
+680,4.1.1.35,UDP-glucuronate decarboxylase
+681,4.2.1.75,uroporphyrinogen-III synthase
+682,3.4.21.78,granzyme A
+683,3.2.1.25,beta-mannosidase
+684,2.3.1.87,aralkylamine N-acetyltransferase
+685,1.3.8.4,isovaleryl-CoA dehydrogenase
+686,3.1.1.34,lipoprotein lipase
+687,3.2.1.51,alpha-L-fucosidase
+688,3.4.21.35,tissue kallikrein
+689,4.2.1.22,cystathionine beta-synthase
+690,3.5.3.18,dimethylargininase
+691,4.3.1.3,histidine ammonia-lyase
+692,1.13.99.1,inositol oxygenase
+693,3.1.6.14,N-acetylglucosamine-6-sulfatase
+694,1.13.11.71,"carotenoid-9',10'-cleaving dioxygenase"
+695,1.13.11.5,"homogentisate 1,2-dioxygenase"
+696,1.2.1.5,aldehyde dehydrogenase [NAD(P)+]
+697,1.14.17.1,dopamine beta-monooxygenase
+698,3.4.21.2,chymotrypsin C
+699,3.4.22.43,cathepsin V
+700,4.1.1.33,diphosphomevalonate decarboxylase
+701,3.6.4.13,RNA helicase
+702,1.17.4.1,ribonucleoside-diphosphate reductase
+703,2.1.1.361,[histone H4]-lysine20 N-methyltransferase
+704,6.5.1.1,DNA ligase (ATP)
+705,6.5.1.6,DNA ligase (ATP or NAD+)
+706,6.5.1.7,"DNA ligase (ATP, ADP or GTP)"
+707,2.3.1.234,N6-L-threonylcarbamoyladenine synthase
+708,1.11.1.8,iodide peroxidase
+709,2.3.2.24,(E3-independent) E2 ubiquitin-conjugating enzyme
+710,2.4.2.30,NAD+ ADP-ribosyltransferase
+711,3.1.11.2,exodeoxyribonuclease III
+712,1.14.11.27,[histone H3]-dimethyl-L-lysine36 demethylase
+713,2.4.2.28,S-methyl-5'-thioadenosine phosphorylase
+714,4.1.1.84,D-dopachrome decarboxylase
+715,3.2.1.114,"mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase"
+716,4.1.1.9,malonyl-CoA decarboxylase
+717,2.7.4.9,dTMP kinase
+718,3.4.22.16,cathepsin H
+719,2.4.1.152,4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
+720,2.7.1.59,N-acetylglucosamine kinase
+721,4.4.1.5,lactoylglutathione lyase
+722,2.1.1.17,phosphatidylethanolamine N-methyltransferase
+723,2.1.1.71,phosphatidyl-N-methylethanolamine N-methyltransferase
+724,2.4.1.88,globoside alpha-N-acetylgalactosaminyltransferase
+725,3.4.21.94,proprotein convertase 2
+726,3.4.16.2,lysosomal Pro-Xaa carboxypeptidase
+727,1.1.1.2,alcohol dehydrogenase (NADP+)
+728,2.4.1.101,"alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
+729,3.5.4.3,guanine deaminase
+730,2.1.4.1,glycine amidinotransferase
+731,5.4.2.2,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)"
+732,2.3.1.29,glycine C-acetyltransferase
+733,2.3.2.5,glutaminyl-peptide cyclotransferase
+734,1.5.5.1,electron-transferring-flavoprotein dehydrogenase
+735,3.4.15.1,peptidyl-dipeptidase A
+736,1.1.1.41,isocitrate dehydrogenase (NAD+)
+737,2.7.1.94,acylglycerol kinase
+738,3.1.1.8,cholinesterase
+739,3.1.2.6,hydroxyacylglutathione hydrolase
+740,2.7.7.2,FAD synthetase
+741,3.1.3.3,phosphoserine phosphatase
+742,2.6.1.5,tyrosine transaminase
+743,1.1.1.95,phosphoglycerate dehydrogenase
+744,1.1.1.399,2-oxoglutarate reductase
+745,2.7.8.15,UDP-N-acetylglucosamine---dolichyl-phosphate N-acetylglucosaminephosphotransferase
+746,2.3.1.61,dihydrolipoyllysine-residue succinyltransferase
+747,2.4.1.144,"beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase"
+748,3.2.1.96,mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+749,1.13.11.11,"tryptophan 2,3-dioxygenase"
+750,6.1.1.18,glutamine---tRNA ligase
+751,5.3.1.8,mannose-6-phosphate isomerase
+752,3.4.14.10,tripeptidyl-peptidase II
+753,1.1.99.2,L-2-hydroxyglutarate dehydrogenase
+754,3.4.21.70,pancreatic endopeptidase E
+755,2.4.1.150,"N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase"
+756,3.4.21.26,prolyl oligopeptidase
+757,5.1.99.4,alpha-methylacyl-CoA racemase
+758,3.1.3.7,"3'(2'),5'-bisphosphate nucleotidase"
+759,2.3.1.37,5-aminolevulinate synthase
+760,3.2.1.46,galactosylceramidase
+761,3.2.1.106,mannosyl-oligosaccharide glucosidase
+762,3.1.1.53,sialate O-acetylesterase
+763,2.7.1.17,xylulokinase
+764,3.1.4.39,alkylglycerophosphoethanolamine phosphodiesterase
+765,4.1.3.3,N-acetylneuraminate lyase
+766,3.5.1.23,ceramidase
+767,1.1.1.8,glycerol-3-phosphate dehydrogenase (NAD+)
+768,2.6.1.16,glutamine---fructose-6-phosphate transaminase (isomerizing)
+769,2.7.1.164,O-phosphoseryl-tRNASec kinase
+770,2.7.1.158,inositol-pentakisphosphate 2-kinase
+771,2.9.1.2,O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+772,6.5.1.4,RNA 3'-terminal-phosphate cyclase (ATP)
+773,1.11.2.2,myeloperoxidase
+774,2.4.1.25,4-alpha-glucanotransferase
+775,3.2.1.33,"amylo-alpha-1,6-glucosidase"
+776,3.5.1.15,aspartoacylase
+777,3.4.21.9,enteropeptidase
+778,1.17.4.4,vitamin-K-epoxide reductase (warfarin-sensitive)
+779,3.1.1.31,6-phosphogluconolactonase
+780,2.4.1.155,"alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase"
+781,1.3.8.6,glutaryl-CoA dehydrogenase (ETF)
+782,1.13.11.6,"3-hydroxyanthranilate 3,4-dioxygenase"
+783,2.8.2.4,estrone sulfotransferase
+784,3.2.1.22,alpha-galactosidase
+785,2.7.4.21,inositol-hexakisphosphate kinase
+786,2.4.1.80,ceramide glucosyltransferase
+787,3.4.22.1,cathepsin B
+788,5.1.3.2,UDP-glucose 4-epimerase
+789,6.3.5.4,asparagine synthase (glutamine-hydrolysing)
+790,1.1.1.141,15-hydroxyprostaglandin dehydrogenase (NAD+)
+791,3.6.1.17,bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)
+792,3.4.17.10,carboxypeptidase E
+793,2.7.7.9,UTP---glucose-1-phosphate uridylyltransferase
+794,3.5.2.2,dihydropyrimidinase
+795,2.4.1.92,(N-acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase
+796,1.5.1.3,dihydrofolate reductase
+797,4.1.3.4,hydroxymethylglutaryl-CoA lyase
+798,2.2.1.2,transaldolase
+799,4.2.1.24,porphobilinogen synthase
+800,1.5.8.4,dimethylglycine dehydrogenase
+801,2.3.1.12,dihydrolipoyllysine-residue acetyltransferase
+802,4.3.2.2,adenylosuccinate lyase
+803,1.1.1.49,glucose-6-phosphate dehydrogenase (NADP+)
+804,1.1.1.363,glucose-6-phosphate dehydrogenase [NAD(P)+]
+805,3.2.1.49,alpha-N-acetylgalactosaminidase
+806,4.2.1.96,4a-hydroxytetrahydrobiopterin dehydratase
+807,1.3.1.3,Delta4-3-oxosteroid 5beta-reductase
+808,3.1.3.9,glucose-6-phosphatase
+809,1.2.1.24,succinate-semialdehyde dehydrogenase (NAD+)
+810,6.1.1.22,asparagine---tRNA ligase
+811,4.4.1.16,selenocysteine lyase
+812,1.14.11.18,phytanoyl-CoA dioxygenase
+813,1.14.11.1,gamma-butyrobetaine dioxygenase
+814,2.1.1.37,DNA (cytosine-5-)-methyltransferase
+815,5.3.1.1,triose-phosphate isomerase
+816,3.4.24.59,mitochondrial intermediate peptidase
+817,5.1.3.19,chondroitin-glucuronate 5-epimerase
+818,2.6.1.13,ornithine aminotransferase
+819,6.3.4.16,carbamoyl-phosphate synthase (ammonia)
+820,3.4.24.71,endothelin-converting enzyme 1
+821,3.4.14.1,dipeptidyl-peptidase I
+822,2.3.1.39,[acyl-carrier-protein] S-malonyltransferase
+823,3.4.21.92,endopeptidase Clp
+824,6.2.1.16,acetoacetate---CoA ligase
+825,3.4.21.75,furin
+826,5.4.99.7,lanosterol synthase
+827,3.1.4.50,glycosylphosphatidylinositol phospholipase D
+828,3.2.1.28,"alpha,alpha-trehalase"
+829,3.5.4.12,dCMP deaminase
+830,3.2.1.50,alpha-N-acetylglucosaminidase
+831,3.4.19.1,acylaminoacyl-peptidase
+832,6.3.5.3,phosphoribosylformylglycinamidine synthase
+833,6.1.1.3,threonine---tRNA ligase
+834,2.3.1.168,dihydrolipoyllysine-residue (2-methylpropanoyl)transferase
+835,3.4.24.56,insulysin
+836,3.4.23.15,renin
+837,4.99.1.1,protoporphyrin ferrochelatase
+838,4.99.1.9,coproporphyrin ferrochelatase
+839,6.1.1.19,arginine---tRNA ligase
+840,3.6.1.11,exopolyphosphatase
+841,1.4.3.4,monoamine oxidase
+842,1.6.5.5,NADPH:quinone reductase
+843,4.1.1.65,phosphatidylserine decarboxylase
+844,6.1.1.7,alanine---tRNA ligase
+845,5.3.99.2,prostaglandin-D synthase
+846,3.5.1.26,N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+847,1.2.3.1,aldehyde oxidase
+848,3.3.2.6,leukotriene-A4 hydrolase
+849,2.3.1.43,phosphatidylcholine---sterol O-acyltransferase
+850,4.2.1.47,"GDP-mannose 4,6-dehydratase"
+851,2.3.1.13,glycine N-acyltransferase
+852,2.3.1.71,glycine N-benzoyltransferase
+853,3.1.6.2,steryl-sulfatase
+854,3.4.21.77,semenogelase
+855,2.3.1.78,heparan-alpha-glucosaminide N-acetyltransferase
+856,2.1.1.28,phenylethanolamine N-methyltransferase
+857,1.2.1.88,L-glutamate gamma-semialdehyde dehydrogenase
+858,3.4.13.20,beta-Ala-His dipeptidase
+859,6.1.1.9,valine---tRNA ligase
+860,3.4.21.76,myeloblastin
+861,2.1.1.63,methylated-DNA---[protein]-cysteine S-methyltransferase
+862,1.1.1.153,"sepiapterin reductase (L-erythro-7,8-dihydrobiopterin forming)"
+863,6.3.4.5,argininosuccinate synthase
+864,2.4.1.62,ganglioside galactosyltransferase
+865,2.7.4.8,guanylate kinase
+866,6.3.5.2,GMP synthase (glutamine-hydrolysing)
+867,1.1.1.14,L-iditol 2-dehydrogenase
+868,6.3.2.51,phosphopantothenate---cysteine ligase (ATP)
+869,2.4.1.143,"alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
+870,2.7.7.30,fucose-1-phosphate guanylyltransferase
+871,2.1.2.10,aminomethyltransferase
+872,5.3.3.12,L-dopachrome isomerase
+873,4.4.1.1,cystathionine gamma-lyase
+874,3.2.1.76,L-iduronidase
+875,2.5.1.75,tRNA dimethylallyltransferase
+876,1.13.11.19,cysteamine dioxygenase
+877,2.1.1.4,acetylserotonin O-methyltransferase
+878,3.4.21.37,leukocyte elastase
+879,2.5.1.26,alkylglycerone-phosphate synthase
+880,3.1.6.4,N-acetylgalactosamine-6-sulfatase
+881,2.7.6.1,ribose-phosphate diphosphokinase
+882,1.5.1.20,methylenetetrahydrofolate reductase [NAD(P)H]
+883,1.4.3.5,pyridoxal 5'-phosphate synthase
+884,3.4.11.6,aminopeptidase B
+885,1.1.1.62,17beta-estradiol 17-dehydrogenase
+886,1.14.19.44,acyl-CoA (8-3)-desaturase
+887,1.14.19.3,acyl-CoA 6-desaturase
+888,1.11.1.7,peroxidase
+889,2.1.1.8,histamine N-methyltransferase
+890,1.14.11.16,peptide-aspartate beta-dioxygenase
+891,3.6.1.29,bis(5'-adenosyl)-triphosphatase
+892,4.6.1.18,pancreatic ribonuclease
+893,2.3.1.5,arylamine N-acetyltransferase
+894,3.4.24.15,thimet oligopeptidase
+895,1.3.1.93,very-long-chain enoyl-CoA reductase
+896,2.4.2.4,thymidine phosphorylase
+897,3.4.22.34,legumain
+898,3.4.22.38,cathepsin K
+899,4.4.1.17,holocytochrome-c synthase
+900,3.4.22.49,separase
+901,4.1.1.37,uroporphyrinogen decarboxylase
+902,2.7.1.35,pyridoxal kinase
+903,3.6.1.28,thiamine-triphosphatase
+904,2.8.1.1,thiosulfate sulfurtransferase
+905,2.8.1.2,3-mercaptopyruvate sulfurtransferase
+906,1.14.14.17,squalene monooxygenase
+907,3.7.1.3,kynureninase
+908,3.4.21.79,granzyme B
+909,2.4.2.8,hypoxanthine phosphoribosyltransferase
+910,3.4.23.3,gastricsin
+911,2.1.1.219,tRNA (adenine57-N1/adenine58-N1)-methyltransferase
+912,2.1.1.220,tRNA (adenine58-N1)-methyltransferase
+913,6.4.1.2,acetyl-CoA carboxylase
+914,6.3.4.14,biotin carboxylase
+915,2.1.3.15,acetyl-CoA carboxytransferase
+916,2.3.1.286,protein acetyllysine N-acetyltransferase
+917,2.1.1.355,[histone H3]-lysine9 N-trimethyltransferase
+918,2.1.1.357,[histone H3]-lysine36 N-dimethyltransferase
+919,2.1.1.319,type I protein arginine methyltransferase
+920,2.3.1.20,diacylglycerol O-acyltransferase
+921,2.3.1.76,retinol O-fatty-acyltransferase
+922,3.1.11.7,adenosine-5'-diphospho-5'-[DNA] diphosphatase
+923,3.1.11.8,guanosine-5'-diphospho-5'-[DNA] diphosphatase
+924,3.1.12.2,DNA-3'-diphospho-5'-guanosine diphosphatase
+925,2.1.1.358,[histone H3]-dimethyl-L-lysine36 N-methyltransferase
+926,1.14.99.29,deoxyhypusine monooxygenase
+927,2.1.1.362,[histone H4]-N-methyl-L-lysine20 N-methyltransferase
+928,2.1.1.356,[histone H3]-lysine27 N-trimethyltransferase
+929,2.3.1.255,N-terminal amino-acid Nalpha-acetyltransferase NatA
+930,2.7.7.49,RNA-directed DNA polymerase
+931,2.3.1.1,amino-acid N-acetyltransferase
+932,3.5.4.38,single-stranded DNA cytosine deaminase
+933,2.1.1.360,[histone H3]-lysine79 N-trimethyltransferase
+934,2.7.1.22,ribosylnicotinamide kinase
+935,2.7.1.173,nicotinate riboside kinase
+936,2.7.7.79,tRNAHis guanylyltransferase
+937,3.1.3.29,N-acylneuraminate-9-phosphatase
+938,3.5.2.7,imidazolonepropionase
+939,4.1.1.90,peptidyl-glutamate 4-carboxylase
+940,1.14.99.38,cholesterol 25-hydroxylase
+941,1.17.99.3,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase"
+942,3.1.2.4,3-hydroxyisobutyryl-CoA hydrolase
+943,3.4.11.7,glutamyl aminopeptidase
+944,2.1.1.320,type II protein arginine methyltransferase
+945,2.1.1.321,type III protein arginine methyltransferase
+946,1.5.5.3,hydroxyproline dehydrogenase
+947,1.1.1.184,carbonyl reductase (NADPH)
+948,1.1.1.189,prostaglandin-E2 9-reductase
+949,1.1.1.197,15-hydroxyprostaglandin dehydrogenase (NADP+)
+950,2.7.1.14,sedoheptulokinase
+951,3.4.11.1,leucyl aminopeptidase
+952,3.4.11.5,prolyl aminopeptidase
+953,2.7.8.5,CDP-diacylglycerol---glycerol-3-phosphate 1-phosphatidyltransferase
+954,5.4.99.2,methylmalonyl-CoA mutase
+955,1.1.1.40,malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)
+956,2.3.1.24,sphingosine N-acyltransferase
+957,5.4.2.4,bisphosphoglycerate mutase
+958,5.4.2.11,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)"
+959,6.2.1.17,propionate---CoA ligase
+960,6.2.1.2,medium-chain acyl-CoA ligase
+961,6.1.1.10,methionine---tRNA ligase
+962,2.4.1.40,glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase
+963,2.4.1.37,fucosylgalactoside 3-alpha-galactosyltransferase
+964,3.2.1.108,lactase
+965,3.2.1.62,glycosylceramidase
+966,4.6.1.2,guanylate cyclase
+967,3.1.4.12,sphingomyelin phosphodiesterase
+968,1.14.11.33,DNA oxidative demethylase
+969,5.4.99.25,tRNA pseudouridine55 synthase
+970,3.4.22.41,cathepsin F
+971,3.1.2.27,choloyl-CoA hydrolase
+972,2.7.7.80,molybdopterin-synthase adenylyltransferase
+973,2.8.1.11,molybdopterin synthase sulfurtransferase
+974,3.2.1.45,glucosylceramidase
+975,4.3.2.9,gamma-glutamylcyclotransferase
+976,6.3.2.2,glutamate---cysteine ligase
+977,1.1.1.300,NADP-retinol dehydrogenase
+978,3.1.1.64,retinoid isomerohydrolase
+979,5.3.3.22,lutein isomerase
+980,1.4.3.22,diamine oxidase
+981,1.1.99.24,hydroxyacid-oxoacid transhydrogenase
+982,3.4.11.2,membrane alanyl aminopeptidase
+983,3.1.1.98,[Wnt protein] O-palmitoleoyl-L-serine hydrolase
+984,4.2.1.3,aconitate hydratase
+985,1.14.11.54,mRNA N1-methyladenine demethylase
+986,1.1.2.4,D-lactate dehydrogenase (cytochrome)
+987,2.3.1.85,fatty-acid synthase system
+988,1.17.1.4,xanthine dehydrogenase
+989,1.17.3.2,xanthine oxidase
+990,1.1.3.15,(S)-2-hydroxy-acid oxidase
+991,1.14.11.68,[histone H3]-trimethyl-L-lysine27 demethylase
+992,2.5.1.91,all-trans-decaprenyl-diphosphate synthase
+993,4.2.1.152,hydroperoxy icosatetraenoate dehydratase
+994,5.4.4.7,hydroperoxy icosatetraenoate isomerase
+995,1.14.11.67,[histone H3]-trimethyl-L-lysine4 demethylase
+996,2.1.2.3,phosphoribosylaminoimidazolecarboxamide formyltransferase
+997,3.5.4.10,IMP cyclohydrolase
+998,2.3.1.65,bile acid-CoA:amino acid N-acyltransferase
+999,1.3.1.34,"2,4-dienoyl-CoA reductase (NADPH)"
+1000,1.2.1.84,alcohol-forming fatty acyl-CoA reductase
+1001,5.3.3.8,Delta3-Delta2-enoyl-CoA isomerase
+1002,1.14.13.39,nitric-oxide synthase (NADPH)
+1003,1.1.1.178,3-hydroxy-2-methylbutyryl-CoA dehydrogenase
+1004,2.7.1.2,glucokinase
+1005,3.1.1.96,D-aminoacyl-tRNA deacylase
+1006,3.1.13.1,exoribonuclease II
+1007,2.6.1.19,4-aminobutyrate---2-oxoglutarate transaminase
+1008,2.6.1.22,(S)-3-amino-2-methylpropionate transaminase
+1009,3.1.4.17,"3',5'-cyclic-nucleotide phosphodiesterase"
+1010,3.1.3.78,"phosphatidylinositol-4,5-bisphosphate 4-phosphatase"
+1011,3.5.4.37,double-stranded RNA adenine deaminase
+1012,3.4.21.89,signal peptidase I
+1013,3.1.21.1,deoxyribonuclease I
+1014,2.7.1.106,"glucose-1,6-bisphosphate synthase"
+1015,3.2.1.17,lysozyme
+1016,3.2.1.48,sucrose alpha-glucosidase
+1017,3.2.1.10,"oligo-1,6-glucosidase"
+1018,4.1.2.27,sphinganine-1-phosphate aldolase
+1019,3.4.24.64,mitochondrial processing peptidase
+1020,3.10.1.1,N-sulfoglucosamine sulfohydrolase
+1021,1.5.1.5,methylenetetrahydrofolate dehydrogenase (NADP+)
+1022,3.5.4.9,methenyltetrahydrofolate cyclohydrolase
+1023,6.3.4.3,formate---tetrahydrofolate ligase
+1024,1.5.1.15,methylenetetrahydrofolate dehydrogenase (NAD+)
+1025,3.2.1.52,beta-N-acetylhexosaminidase
+1026,1.5.3.1,sarcosine oxidase
+1027,1.5.3.7,L-pipecolate oxidase
+1028,3.1.4.53,"3',5'-cyclic-AMP phosphodiesterase"
+1029,3.2.1.23,beta-galactosidase
+1030,2.1.1.346,U6 snRNA m6A methyltransferase
+1031,1.14.99.66,"[histone H3]-N6,N6-dimethyl-L-lysine4 FAD-dependent demethylase"
+1032,1.5.1.30,flavin reductase (NADPH)
+1033,4.2.1.107,"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase"
+1034,4.2.1.119,enoyl-CoA hydratase 2
+1035,3.2.1.183,UDP-N-acetylglucosamine 2-epimerase (hydrolysing)
+1036,2.7.1.60,N-acylmannosamine kinase
+1037,3.1.3.2,acid phosphatase
+1038,3.5.1.1,asparaginase
+1039,3.4.19.5,beta-aspartyl-peptidase
+1040,3.1.4.43,glycerophosphoinositol inositolphosphodiesterase
+1041,2.7.7.52,RNA uridylyltransferase
+1042,2.7.4.2,phosphomevalonate kinase
+1043,1.3.1.22,3-oxo-5alpha-steroid 4-dehydrogenase (NADP+)
+1044,1.3.1.94,polyprenol reductase
+1045,6.3.5.5,carbamoyl-phosphate synthase (glutamine-hydrolysing)
+1046,2.1.3.2,aspartate carbamoyltransferase
+1047,3.5.2.3,dihydroorotase
+1048,2.5.1.59,protein geranylgeranyltransferase type I
+1049,1.4.3.2,L-amino-acid oxidase
+1050,3.1.1.13,sterol esterase
+1051,1.14.11.65,[histone H3]-dimethyl-L-lysine9 demethylase
+1052,5.4.2.3,phosphoacetylglucosamine mutase
+1053,2.7.7.14,ethanolamine-phosphate cytidylyltransferase
+1054,2.4.1.50,procollagen galactosyltransferase
+1055,6.3.4.9,biotin---[methylmalonyl-CoA-carboxytransferase] ligase
+1056,6.3.4.10,biotin---[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+1057,6.3.4.11,biotin---[methylcrotonoyl-CoA-carboxylase] ligase
+1058,6.3.4.15,biotin---[biotin carboxyl-carrier protein] ligase
+1059,4.1.1.21,phosphoribosylaminoimidazole carboxylase
+1060,6.3.2.6,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1061,6.3.4.13,phosphoribosylamine---glycine ligase
+1062,2.1.2.2,phosphoribosylglycinamide formyltransferase
+1063,6.3.3.1,phosphoribosylformylglycinamidine cyclo-ligase
+1064,2.5.1.87,"ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl diphosphate specific]"
+1065,1.3.1.88,tRNA-dihydrouridine16/17 synthase [NAD(P)+]
+1066,2.7.1.149,1-phosphatidylinositol-5-phosphate 4-kinase
+1067,5.1.1.18,serine racemase
+1068,1.3.5.2,dihydroorotate dehydrogenase (quinone)
+1069,4.1.1.45,aminocarboxymuconate-semialdehyde decarboxylase
+1070,1.1.1.38,malate dehydrogenase (oxaloacetate-decarboxylating)
+1071,2.8.2.14,bile-salt sulfotransferase
+1072,3.1.1.3,triacylglycerol lipase
+1073,3.2.1.20,alpha-glucosidase
+1074,3.2.1.3,"glucan 1,4-alpha-glucosidase"
+1075,1.5.3.16,spermine oxidase
+1076,1.8.98.2,sulfiredoxin
+1077,1.1.1.181,"cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase"
+1078,1.1.1.270,3beta-hydroxysteroid 3-dehydrogenase
+1079,3.6.1.59,5'-(N7-methyl 5'-triphosphoguanosine)-[mRNA] diphosphatase
+1080,1.1.1.239,3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)
+1081,1.1.1.105,all-trans-retinol dehydrogenase (NAD+)
+1082,1.3.1.20,"trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+1083,1.1.1.179,D-xylose 1-dehydrogenase (NADP+)
+1084,1.6.3.1,NAD(P)H oxidase (H2O2-forming)
+1085,1.1.1.145,3beta-hydroxy-Delta5-steroid dehydrogenase
+1086,5.3.3.1,steroid Delta-isomerase
+1087,3.1.1.47,1-alkyl-2-acetylglycerophosphocholine esterase
+1088,1.3.1.74,2-alkenal reductase [NAD(P)+]
+1089,1.3.1.48,"13,14-dehydro-15-oxoprostaglandin 13-reductase"
+1090,4.1.1.97,2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+1091,5.3.3.21,"Delta3,5-Delta2,4-dienoyl-CoA isomerase"
+1092,4.2.1.109,methylthioribulose 1-phosphate dehydratase
+1093,3.4.16.5,carboxypeptidase C
+1094,2.6.1.44,alanine---glyoxylate transaminase
+1095,2.6.1.40,(R)-3-amino-2-methylpropionate---pyruvate transaminase
+1096,3.6.1.62,5'-(N7-methylguanosine 5'-triphospho)-[mRNA] hydrolase
+1097,2.3.1.23,1-acylglycerophosphocholine O-acyltransferase
+1098,2.3.1.67,1-alkylglycerophosphocholine O-acetyltransferase
+1099,3.6.1.58,8-oxo-dGDP phosphatase
+1100,2.7.7.96,ADP-D-ribose pyrophosphorylase
+1101,2.1.2.5,glutamate formimidoyltransferase
+1102,4.3.1.4,formimidoyltetrahydrofolate cyclodeaminase
+1103,1.1.1.211,long-chain-3-hydroxyacyl-CoA dehydrogenase
+1104,2.7.7.1,nicotinamide-nucleotide adenylyltransferase
+1105,2.7.7.18,nicotinate-nucleotide adenylyltransferase
+1106,1.16.3.1,ferroxidase
+1107,2.3.1.256,N-terminal methionine Nalpha-acetyltransferase NatC
+1108,2.7.4.14,UMP/CMP kinase
+1109,3.6.1.16,CDP-glycerol diphosphatase
+1110,3.6.1.53,Mn2+-dependent ADP-ribose/CDP-alcohol diphosphatase
+1111,2.3.1.51,1-acylglycerol-3-phosphate O-acyltransferase
+1112,3.1.1.2,arylesterase
+1113,3.1.8.1,aryldialkylphosphatase
+1114,1.14.15.4,steroid 11beta-monooxygenase
+1115,1.14.15.5,corticosterone 18-monooxygenase
+1116,2.4.99.18,dolichyl-diphosphooligosaccharide---protein glycotransferase
+1117,2.6.1.45,serine---glyoxylate transaminase
+1118,2.6.1.51,serine---pyruvate transaminase
+1119,2.5.1.56,N-acetylneuraminate synthase
+1120,2.5.1.57,N-acylneuraminate-9-phosphate synthase
+1121,2.5.1.132,3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+1122,1.8.3.7,formylglycine-generating enzyme
+1123,1.1.1.45,L-gulonate 3-dehydrogenase
+1124,3.1.3.32,polynucleotide 3'-phosphatase
+1125,2.7.1.78,polynucleotide 5'-hydroxyl-kinase
+1126,2.4.2.10,orotate phosphoribosyltransferase
+1127,4.1.1.23,orotidine-5'-phosphate decarboxylase
+1128,1.4.4.2,glycine dehydrogenase (aminomethyl-transferring)
+1129,1.13.11.53,acireductone dioxygenase (Ni2+-requiring)
+1130,1.13.11.54,acireductone dioxygenase [iron(II)-requiring]
+1131,2.7.2.11,glutamate 5-kinase
+1132,1.2.1.41,glutamate-5-semialdehyde dehydrogenase
+1133,1.1.1.1,alcohol dehydrogenase
+1134,4.1.3.16,4-hydroxy-2-oxoglutarate aldolase
+1135,3.1.4.54,N-acetylphosphatidylethanolamine-hydrolysing phospholipase D
+1136,1.1.1.47,glucose 1-dehydrogenase [NAD(P)+]
+1137,1.6.1.2,NAD(P)+ transhydrogenase (Re/Si-specific)
+1138,7.1.1.1,proton-translocating NAD(P)+ transhydrogenase
+1139,1.1.1.284,S-(hydroxymethyl)glutathione dehydrogenase
+1140,6.4.1.1,pyruvate carboxylase
+1141,2.7.7.4,sulfate adenylyltransferase
+1142,2.7.1.25,adenylyl-sulfate kinase
+1143,2.7.7.13,mannose-1-phosphate guanylyltransferase
+1144,2.4.1.90,N-acetyllactosamine synthase
+1145,2.4.1.38,"beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase"
+1146,2.4.1.275,"neolactotriaosylceramide beta-1,4-galactosyltransferase"
+1147,2.7.7.3,pantetheine-phosphate adenylyltransferase
+1148,2.7.1.24,dephospho-CoA kinase
+1149,1.1.1.263,"1,5-anhydro-D-fructose reductase"
+1150,2.7.7.50,mRNA guanylyltransferase
+1151,3.1.1.93,mycophenolic acid acyl-glucuronide esterase
+1152,2.4.1.66,procollagen glucosyltransferase
+1153,3.5.1.3,omega-amidase
+1154,2.7.8.1,ethanolaminephosphotransferase
+1155,1.2.1.31,L-aminoadipate-semialdehyde dehydrogenase
+1156,1.2.1.8,betaine-aldehyde dehydrogenase
+1157,4.2.3.2,ethanolamine-phosphate phospho-lyase
+1158,2.7.7.84,2'-5' oligoadenylate synthase
+1159,2.7.1.32,choline kinase
+1160,2.6.1.7,kynurenine---oxoglutarate transaminase
+1161,2.6.1.39,2-aminoadipate transaminase
+1162,3.1.4.1,phosphodiesterase I
+1163,3.6.1.9,nucleotide diphosphatase
+1164,3.1.2.12,S-formylglutathione hydrolase
+1165,2.7.1.108,dolichol kinase
+1166,2.4.1.201,"alpha-1,6-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase"
+1167,2.3.1.254,N-terminal methionine Nalpha-acetyltransferase NatB
+1168,2.7.1.150,1-phosphatidylinositol-3-phosphate 5-kinase
+1169,3.1.1.89,protein phosphatase methylesterase-1
+1170,2.1.1.183,18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase
+1171,2.7.1.159,"inositol-1,3,4-trisphosphate 5/6-kinase"
+1172,2.7.1.134,inositol-tetrakisphosphate 1-kinase
+1173,1.1.1.146,11beta-hydroxysteroid dehydrogenase
+1174,3.4.13.9,Xaa-Pro dipeptidase
+1175,5.3.1.23,S-methyl-5-thioribose-1-phosphate isomerase
+1176,1.11.1.12,phospholipid-hydroperoxide glutathione peroxidase
+1177,4.4.1.13,cysteine-S-conjugate beta-lyase
+1178,2.6.1.64,glutamine---phenylpyruvate transaminase
+1179,2.3.1.22,2-acylglycerol O-acyltransferase
+1180,2.6.1.1,aspartate transaminase
+1181,2.1.1.205,tRNA (cytidine32/guanosine34-2'-O)-methyltransferase
+1182,1.5.1.8,"saccharopine dehydrogenase (NADP+, L-lysine-forming)"
+1183,1.5.1.9,"saccharopine dehydrogenase (NAD+, L-glutamate-forming)"
+1184,2.1.1.287,25S rRNA (adenine645-N1)-methyltransferase
+1185,3.5.1.121,protein N-terminal asparagine amidohydrolase
+1186,4.6.1.19,ribonuclease T2
+1187,6.3.4.21,nicotinate phosphoribosyltransferase
+1188,1.16.1.6,cyanocobalamin reductase (cyanide-eliminating)
+1189,2.5.1.151,alkylcobalamin dealkylase
+1190,5.4.2.7,phosphopentomutase
+1191,1.2.1.47,4-trimethylammoniobutyraldehyde dehydrogenase
+1192,2.8.1.12,molybdopterin synthase
+1193,2.1.1.260,rRNA small subunit pseudouridine methyltransferase Nep1
+1194,3.6.1.15,nucleoside-triphosphate phosphatase
+1195,3.1.3.46,"fructose-2,6-bisphosphate 2-phosphatase"
+1196,2.1.1.296,methyltransferase cap2
+1197,2.1.1.57,methyltransferase cap1
+1198,6.3.2.11,carnosine synthase
+1199,3.5.1.14,N-acyl-aliphatic-L-amino acid amidohydrolase
+1200,2.1.1.310,25S rRNA (cytosine2870-C5)-methyltransferase
+1201,3.5.4.34,tRNAAla(adenine37) deaminase
+1202,2.1.1.203,tRNA (cytosine34-C5)-methyltransferase
+1203,3.4.13.18,cytosol nonspecific dipeptidase
+1204,2.1.1.35,tRNA (uracil54-C5)-methyltransferase
+1205,5.4.99.27,tRNA pseudouridine13 synthase
+1206,2.1.1.311,25S rRNA (cytosine2278-C5)-methyltransferase
+1207,4.1.3.44,tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+1208,2.1.1.282,tRNAPhe 7-[(3-amino-3-carboxypropyl)-4-demethylwyosine37-N4]-methyltransferase
+1209,2.7.1.105,6-phosphofructo-2-kinase
+1210,3.1.1.17,gluconolactonase
+1211,2.1.1.228,tRNA (guanine37-N1)-methyltransferase
+1212,2.5.1.114,tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+1213,2.3.1.225,protein S-acyltransferase
+1214,2.1.1.221,tRNA (guanine9-N1)-methyltransferase
+1215,2.1.1.211,tRNASer (uridine44-2'-O)-methyltransferase
+1216,2.1.1.214,tRNA (guanine10-N2)-methyltransferase
+1217,3.2.1.130,"glycoprotein endo-alpha-1,2-mannosidase"
+1218,2.7.1.171,protein-fructosamine 3-kinase
+1219,2.7.1.172,protein-ribulosamine 3-kinase
+1220,3.1.3.64,phosphatidylinositol-3-phosphatase
+1221,3.1.3.95,"phosphatidylinositol-3,5-bisphosphate 3-phosphatase"
+1222,1.14.16.5,alkylglycerol monooxygenase
+1223,5.2.1.2,maleylacetoacetate isomerase
+1224,6.5.1.8,3'-phosphate/5'-hydroxy nucleic acid ligase
+1225,2.7.7.78,GDP-D-glucose phosphorylase
+1226,1.1.1.79,glyoxylate reductase (NADP+)
+1227,1.1.1.81,hydroxypyruvate reductase
+1228,2.1.1.225,tRNA:m4X modification enzyme
+1229,2.1.1.290,tRNAPhe [7-(3-amino-3-carboxypropyl)wyosine37-O]-methyltransferase
+1230,2.3.1.231,tRNAPhe {7-[3-amino-3-(methoxycarbonyl)propyl]wyosine37-N}-methoxycarbonyltransferase
+1231,3.5.1.99,fatty acid amide hydrolase
+1232,1.8.4.12,peptide-methionine (R)-S-oxide reductase
+1233,2.8.1.9,molybdenum cofactor sulfurtransferase
+1234,3.2.1.169,protein O-GlcNAcase
+1235,1.11.1.20,prostamide/prostaglandin F2alpha synthase
+1236,2.10.1.1,molybdopterin molybdotransferase
+1237,2.7.7.75,molybdopterin adenylyltransferase
+1238,2.1.1.204,tRNA (cytosine38-C5)-methyltransferase
+1239,1.13.11.18,persulfide dioxygenase
+1240,2.8.4.5,tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
+1241,3.7.1.5,acylpyruvate hydrolase
+1242,2.1.1.244,protein N-terminal methyltransferase
+1243,3.1.1.32,phospholipase A1
+1244,7.6.2.3,ABC-type glutathione-S-conjugate transporter
+1245,1.1.1.330,very-long-chain 3-oxoacyl-CoA reductase
+1246,3.6.1.12,dCTP diphosphatase
+1247,1.1.1.51,3(or 17)beta-hydroxysteroid dehydrogenase
+1248,1.1.1.188,prostaglandin-F synthase
+1249,1.1.1.213,3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)
+1250,1.1.1.357,3alpha-hydroxysteroid 3-dehydrogenase
+1251,2.7.1.81,hydroxylysine kinase
+1252,3.5.4.36,mRNA(cytosine6666) deaminase
+1253,3.6.1.64,inosine diphosphate phosphatase
+1254,1.21.1.1,iodotyrosine deiodinase
+1255,1.8.3.4,methanethiol oxidase
+1256,1.8.1.8,protein-disulfide reductase
+1257,5.4.2.8,phosphomannomutase
+1258,6.3.5.6,asparaginyl-tRNA synthase (glutamine-hydrolysing)
+1259,6.3.5.7,glutaminyl-tRNA synthase (glutamine-hydrolysing)
+1260,2.7.1.183,glycoprotein-mannosyl O6-kinase
+1261,3.1.3.96,pseudouridine 5'-phosphatase
+1262,2.1.1.299,protein N-terminal monomethyltransferase
+1263,7.2.2.8,P-type Cu+ transporter
+1264,4.2.1.68,L-fuconate dehydratase
+1265,3.6.1.55,8-oxo-dGTP diphosphatase
+1266,4.2.1.93,ATP-dependent NAD(P)H-hydrate dehydratase
+1267,3.1.1.97,methylated diphthine methylhydrolase
+1268,1.14.14.51,(S)-limonene 6-monooxygenase
+1269,1.14.14.52,(S)-limonene 7-monooxygenase
+1270,1.14.14.53,(R)-limonene 6-monooxygenase
+1271,1.14.14.75,fenbendazole monooxygenase (4'-hydroxylating)
+1272,4.1.1.6,cis-aconitate decarboxylase
+1273,1.14.14.78,phylloquinone omega-hydroxylase
+1274,1.14.14.94,leukotriene-B4 20-monooxygenase
+1275,2.7.7.86,cyclic GMP-AMP synthase
+1276,2.5.1.108,2-(3-amino-3-carboxypropyl)histidine synthase
+1277,3.6.1.56,2-hydroxy-dATP diphosphatase
+1278,5.1.99.6,NAD(P)H-hydrate epimerase
+1279,2.1.1.233,[phosphatase 2A protein]-leucine-carboxy methyltransferase
+1280,2.4.1.312,"protein O-mannose beta-1,4-N-acetylglucosaminyltransferase"
+1281,1.6.3.5,renalase
+1282,1.14.17.3,peptidylglycine monooxygenase
+1283,4.3.2.5,peptidylamidoglycolate lyase
+1284,4.2.3.134,5-phosphonooxy-L-lysine phospho-lyase
+1285,6.3.1.14,diphthine---ammonia ligase
+1286,1.14.19.53,"all-trans-retinol 3,4-desaturase"
+1287,4.3.1.17,L-serine ammonia-lyase
+1288,4.3.1.19,threonine ammonia-lyase
+1289,1.14.11.30,hypoxia-inducible factor-asparagine dioxygenase
+1290,1.14.13.32,albendazole monooxygenase
+1291,1.14.14.55,quinine 3-monooxygenase
+1292,1.14.14.56,"1,8-cineole 2-exo-monooxygenase"
+1293,1.14.14.57,taurochenodeoxycholate 6alpha-hydroxylase
+1294,1.14.14.73,albendazole monooxygenase (sulfoxide-forming)
+1295,6.3.2.3,glutathione synthase
+1296,1.14.11.42,tRNAPhe (7-(3-amino-3-carboxypropyl)wyosine37-C2)-hydroxylase
+1297,1.5.1.25,thiomorpholine-carboxylate dehydrogenase
+1298,2.3.1.108,alpha-tubulin N-acetyltransferase
+1299,5.1.3.29,L-fucose mutarotase
+1300,7.3.2.7,arsenite-transporting ATPase
+1301,4.1.1.94,ethylmalonyl-CoA decarboxylase
+1302,2.3.1.17,aspartate N-acetyltransferase
+1303,6.3.1.17,beta-citrylglutamate synthase
+1304,6.3.2.41,N-acetylaspartylglutamate synthase
+1305,6.3.2.42,N-acetylaspartylglutamylglutamate synthase
+1306,4.2.1.77,trans-L-3-hydroxyproline dehydratase
+1307,1.4.1.21,aspartate dehydrogenase
+1308,3.2.2.29,thymine-DNA glycosylase
+1309,1.8.5.8,eukaryotic sulfide quinone oxidoreductase
+1310,3.5.1.114,N-acyl-aromatic-L-amino acid amidohydrolase
+1311,2.7.7.43,N-acylneuraminate cytidylyltransferase
+1312,2.7.7.92,3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
+1313,3.4.19.14,leukotriene-C4 hydrolase
+1314,3.3.2.2,lysoplasmalogenase
+1315,3.1.4.2,glycerophosphocholine phosphodiesterase
+1316,2.1.1.297,peptide chain release factor N5-glutamine methyltransferase
+1317,2.7.1.157,N-acetylgalactosamine kinase
+1318,2.8.3.13,succinate---hydroxymethylglutarate CoA-transferase
+1319,3.6.4.7,peroxisome-assembly ATPase
+1320,1.18.1.6,adrenodoxin-NADP+ reductase
+1321,2.3.1.80,cysteine-S-conjugate N-acetyltransferase
+1322,2.3.1.257,N-terminal L-serine Nalpha-acetyltransferase NatD
+1323,2.1.1.60,calmodulin-lysine N-methyltransferase
+1324,4.1.1.11,aspartate 1-decarboxylase
+1325,2.7.1.12,gluconokinase
+1326,3.1.4.44,glycerophosphoinositol glycerophosphodiesterase
+1327,1.14.11.63,peptidyl-lysine (3S)-dioxygenase
+1328,2.1.1.85,protein-histidine N-methyltransferase
+1329,2.1.1.309,18S rRNA (guanine1575-N7)-methyltransferase
+1330,3.1.3.18,phosphoglycolate phosphatase
+1331,2.7.1.140,inositol-tetrakisphosphate 5-kinase
+1332,2.7.1.151,inositol-polyphosphate multikinase
+1333,1.14.18.6,4-hydroxysphinganine ceramide fatty acyl 2-hydroxylase
+1334,2.1.1.22,carnosine N-methyltransferase
+1335,1.8.3.1,sulfite oxidase
+1336,2.1.1.10,homocysteine S-methyltransferase
+1337,1.1.1.50,3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)
+1338,1.1.1.225,chlordecone reductase
+1339,1.1.1.149,20alpha-hydroxysteroid dehydrogenase
+1340,1.14.14.80,long-chain fatty acid omega-monooxygenase
+1341,2.3.1.258,N-terminal methionine Nalpha-acetyltransferase NatE
+1342,1.14.13.225,F-actin monooxygenase
+1343,3.1.11.1,exodeoxyribonuclease I
+1344,2.4.1.87,N-acetyllactosaminide 3-alpha-galactosyltransferase
+1345,2.7.1.165,glycerate 2-kinase
+1346,2.3.1.259,N-terminal methionine Nalpha-acetyltransferase NatF
+1347,2.4.2.61,"alpha-dystroglycan beta1,4-xylosyltransferase"
+1348,2.8.1.14,tRNA-5-taurinomethyluridine 2-sulfurtransferase
+1349,4.1.99.22,"GTP 3',8-cyclase"
+1350,4.6.1.17,cyclic pyranopterin monophosphate synthase
+1351,2.7.7.40,D-ribitol-5-phosphate cytidylyltransferase
+1352,3.1.7.2,"guanosine-3',5'-bis(diphosphate) 3'-diphosphatase"
+1353,3.5.1.122,protein N-terminal glutamine amidohydrolase
+1354,1.1.99.39,D-2-hydroxyglutarate dehydrogenase
+1355,3.1.3.81,diacylglycerol diphosphate phosphatase
+1356,3.1.1.106,O-acetyl-ADP-ribose deacetylase
+1357,1.14.14.74,albendazole monooxygenase (hydroxylating)
+1358,3.2.1.107,protein-glucosylgalactosylhydroxylysine glucosidase
+1359,2.1.1.34,tRNA (guanosine18-2'-O)-methyltransferase
+1360,1.8.1.9,thioredoxin-disulfide reductase
+1361,2.3.1.45,N-acetylneuraminate 7-O(or 9-O)-acetyltransferase
+1362,3.5.99.10,2-iminobutanoate/2-iminopropanoate deaminase
+1363,4.2.1.48,D-glutamate cyclase
+1364,2.1.1.286,25S rRNA (adenine2142-N1)-methyltransferase
+1365,3.5.1.128,deaminated glutathione amidase
+1366,2.3.1.68,glutamine N-acyltransferase
+1367,3.4.17.17,tubulinyl-Tyr carboxypeptidase
+1368,1.2.1.32,aminomuconate-semialdehyde dehydrogenase
+1369,2.3.1.291,sphingoid base N-palmitoyltransferase
+1370,3.2.1.209,"endoplasmic reticulum Man9GlcNAc2 1,2-alpha-mannosidase"
+1371,2.3.1.181,lipoyl(octanoyl) transferase
+1372,3.2.1.2,beta-amylase
+1373,7.2.2.19,H+/K+-exchanging ATPase
+1374,2.3.1.8,phosphate acetyltransferase
+1375,2.7.1.4,fructokinase
