@@ -1,7 +1,12 @@
 # Reafect
-Reafect uses Z-scores obtained from (untargeted) metabolomics data to calculate 'deficient reaction scores'. These scores indicate whether it is more or less likely that a considered reaction is deficient.
+Reafect uses Z-scores obtained from (untargeted) metabolomics data to calculate 'deficient reaction scores'. These scores indicate whether it is more or less likely that a considered reaction is deficient. Reafect uses KEGG modules and pathways as basis, but reactions can manually be added. 
 
-Reafect uses KEGG modules and pathways as basis, but reactions can manually be added. 
+Our article is published in Molecular Genetics and Metabolism: </br>
+Michiel Bongaerts and Ramon Bonte and Serwet Demirdas and Hidde H. Huidekoper and Janneke Langendonk and Martina Wilke and Walter de Valk and Henk J. Blom and Marcel J.T. Reinders and George J.G. Ruijter.
+***Integration of metabolomics with genomics: Metabolic gene prioritization using metabolomics data and genomic variant (CADD) scores***
+Molecular Genetics and Metabolism, 2022, 1096-7192
+ [https://doi.org/10.3390/metabo11010008](https://doi.org/10.1016/j.ymgme.2022.05.002)
+
 
 # Content
 
